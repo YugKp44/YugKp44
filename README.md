@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Yug
-**Software Developer || Java Specialist || Full Stack Enthusiast**
+# 💫 Hi 👋, I'm Yug Patil
+
 
 <p align="center">
   <a href="https://github.com/YugKp44">
@@ -15,7 +15,9 @@
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I debug code in my sleep!
 
-<br>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YugKp44&theme=radical&no-frame=false&no-bg=false&margin-w=4)
