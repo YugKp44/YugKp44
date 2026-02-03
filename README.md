@@ -24,24 +24,16 @@
 ### Infrastructure & Tools
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-# 📊 Metrics & Activity
+## 📅 Contribution History
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YugKp44&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugKp44&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" alt="languages graph"  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YugKp44&theme=dracula" />
 </div>
 
+<br>
+
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YugKp44&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YugKp44&theme=radical&hide_border=false" alt="streak graph" /> 
-</div>
-
-### 🧠 Daily Wisdom
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🚀 Top Repositories
-![](https://github-contributor-stats.vercel.app/api?username=YugKp44&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-<div align="right">
-  <img src="https://visitcount.itsvg.in/api?id=YugKp44&icon=1&color=10" />
+  <img src="https://skyline.github.com/YugKp44/2025.svg" alt="Yug's Contribution Skyline" width="100%" />
 </div>
