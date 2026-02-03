@@ -19,8 +19,7 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YugKp44&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 # 💻 Tech Stack:
 
@@ -39,4 +38,4 @@
 | **⚡ DSA Library**<br>_(Comp. Programming)_ | My personal collection of optimized algorithms and data structures solutions. | `Java` `Algorithms` |
 
 <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+
